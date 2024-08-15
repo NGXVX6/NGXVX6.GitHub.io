@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://NGXVX6.GitHub.io/sitemap.xml
