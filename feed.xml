@@ -3,10 +3,31 @@
     <title>NGXVX.blog</title>
     <link href="https://NGXVX6.GitHub.io/feed.xml" rel="self" />
     <link href="https://NGXVX6.GitHub.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-08-15T09:09:28+08:00</updated>
     <author>
         <name>暖光</name>
     </author>
     <id>https://NGXVX6.GitHub.io</id>
 
+    <entry>
+        <title>欢迎来到暖光blog</title>
+        <author>
+            <name>暖光</name>
+        </author>
+        <link href="https://NGXVX6.GitHub.io/huan-ying-lai-dao-nuan-guang-blog.html"/>
+        <id>https://NGXVX6.GitHub.io/huan-ying-lai-dao-nuan-guang-blog.html</id>
+
+        <updated>2024-08-15T09:09:28+08:00</updated>
+            <summary>
+                <![CDATA[
+                    大家好,我是一个互联网从业者,热衷于探索计算机技术、网络、人工智能、智能家居等领域的奥秘和趣味。我一直梦想拥有一个自己的技术站点,把自己的学习历程、心得体会、技巧窍门、行业动态等记录下来,与更多的志同道合的朋友们交流和互动。经过一段时间的努力,完成了个人站点的初步搭建,非常开心。在工作和生活中,我遇到过很多问题,也在网络的帮助下解决了很多问题,过程中也积累了不少经验和教训,一直想要做一些分享
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://NGXVX6.GitHub.io/media/posts/1/wallhaven-m98zg9.jpg" alt="" width="5640" height="2400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://NGXVX6.GitHub.io/media/posts/1/responsive/wallhaven-m98zg9-xs.jpg 300w ,https://NGXVX6.GitHub.io/media/posts/1/responsive/wallhaven-m98zg9-sm.jpg 480w ,https://NGXVX6.GitHub.io/media/posts/1/responsive/wallhaven-m98zg9-md.jpg 768w ,https://NGXVX6.GitHub.io/media/posts/1/responsive/wallhaven-m98zg9-lg.jpg 1024w ,https://NGXVX6.GitHub.io/media/posts/1/responsive/wallhaven-m98zg9-xl.jpg 1360w ,https://NGXVX6.GitHub.io/media/posts/1/responsive/wallhaven-m98zg9-2xl.jpg 1600w"></figure>
+<p>大家好,我是一个互联网从业者,热衷于探索计算机技术、网络、人工智能、智能家居等领域的奥秘和趣味。我一直梦想拥有一个自己的技术站点,把自己的学习历程、心得体会、技巧窍门、行业动态等记录下来,与更多的志同道合的朋友们交流和互动。经过一段时间的努力,完成了个人站点的初步搭建,非常开心。在工作和生活中,我遇到过很多问题,也在网络的帮助下解决了很多问题,过程中也积累了不少经验和教训,一直想要做一些分享</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
